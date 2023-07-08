@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(green,Lime,green);
+    color: white;
+}
+
+.d{
+    font-size: 30px;
+}
+
+.h{
+    font-size: 20px;
+}
+
+img{
+    border:3px solid black;
+    border-radius:30px ;
+}
+
+footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
